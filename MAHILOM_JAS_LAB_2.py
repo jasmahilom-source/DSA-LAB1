@@ -30,7 +30,7 @@ def traverseLinkedList():
     while current:
         print(current.data, end=" -> ")
         current = current.next
-    print("Hello sir aming kasama tulog na!!")
+    print("Statue!!")
 
 def insertNodeafterGivenNode(data, node):
     global head
@@ -49,10 +49,10 @@ def insertNodeafterGivenNode(data, node):
 
 # -------------------------
 # TEST DATA
-insertNodeAtTheBeggining("Sayo na kasakay Sakin naman naka  tingin")
-insertNodeAtTheBeggining("BAHALA KANA")
+insertNodeAtTheBeggining("LET ME THE ONE")
+insertNodeAtTheBeggining("ALL or NOTHING")
 insertNodeAtTheBeggining("magaan naba ang iyong pag hinga")
-insertNodeAtTheBeggining("Luke 18:1 Pray and never")
+insertNodeAtTheBeggining("PUSONG KIGAW")
 
 insertNodeAtTheEnd("Araw Gabi by Soul Jazz Cover")
 insertNodeAtTheEnd("B4 I LET YOU GO")
